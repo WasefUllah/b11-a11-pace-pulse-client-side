@@ -8,11 +8,11 @@
 
 ## 🚀 Key Features
 
-- 🔐 **Secure Authentication** using Firebase and JWT token validation for protected routes.
 - 🏃 **Marathon Showcase & Registration** – Browse upcoming events and register easily.
 - 📊 **Personal Dashboard** – Authenticated users can view their registrations and manage marathon info.
 - ⏱️ **Live Countdown & Date Handling** – Real-time timers powered by `date-fns` and `react-countdown-circle-timer`.
 - 🛠️ **Interactive UI** – Enhanced with Tailwind CSS, Framer Motion, Lottie animations, and React Tooltip.
+- 🔐 **Secure Authentication** using Firebase and JWT token validation for protected routes.
 
 ---
 
